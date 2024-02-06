@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://www.youtube.com/feed/subscriptions#on=Science&off=&types=uploads&types=watched',
 				},
 				{
+					name: 'real life',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Real%20Life&off=&types=uploads&types=watched',
+				},
+				{
 					name: 'gaming',
 					link: 'https://www.youtube.com/feed/subscriptions#on=Gaming&off=&types=uploads&types=watched',
 				},
 				{
-					name: 'game shows',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Game%20Shows&off=&types=uploads&types=watched',
-				},
-				{
-					name: 'comedy',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Comedy&off=&types=uploads&types=watched',
+					name: 'tech',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Tech&off=&types=uploads&types=watched',
 				},
 			],
 		},
