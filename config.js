@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Go to Sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'chatgpt',
+			icon: 'bot',
+			link: 'https://chat.openai.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'freemediaheckyeah',
+			icon: 'play',
+			link: 'https://fmhy.pages.dev/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'modrinth',
+			icon: 'wrench',
+			link: 'https://modrinth.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'nexusmods',
+			icon: 'globe-2',
+			link: 'https://www.nexusmods.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'pcgamingwiki',
+			icon: 'pc-case',
+			link: 'https://www.pcgamingwiki.com/wiki/Home/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/feed/subscriptions',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'youtube',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'science',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Science&off=&types=uploads&types=watched',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'gaming',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Gaming&off=&types=uploads&types=watched',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'game shows',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Game%20Shows&off=&types=uploads&types=watched',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'comedy',
+					link: 'https://www.youtube.com/feed/subscriptions#on=Comedy&off=&types=uploads&types=watched',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'graduation-cap',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'boxup',
+					link: 'https://boxup.uni-potsdam.de/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'gitup',
+					link: 'https://gitup.uni-potsdam.de/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'moodle',
+					link: 'https://moodle2.uni-potsdam.de/my/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'puls',
+					link: 'https://puls.uni-potsdam.de/',
 				},
 			],
 		},
