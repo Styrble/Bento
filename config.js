@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '52.390568',
-	defaultLongitude: '13.064473',
+	defaultLatitude: '52.52000660',
+	defaultLongitude: '13.40495400',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -135,28 +135,6 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'youtube',
-			id: '1',
-			links: [
-				{
-					name: 'science',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Science&off=&types=uploads&types=watched',
-				},
-				{
-					name: 'real life',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Real%20Life&off=&types=uploads&types=watched',
-				},
-				{
-					name: 'gaming',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Gaming&off=&types=uploads&types=watched',
-				},
-				{
-					name: 'tech',
-					link: 'https://www.youtube.com/feed/subscriptions#on=Tech&off=&types=uploads&types=watched',
-				},
-			],
-		},
-		{
 			icon: 'graduation-cap',
 			id: '2',
 			links: [
@@ -201,28 +179,6 @@ const CONFIG = {
 				{
 					name: 'Pocket',
 					link: 'https://www.pocket.com',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
 				},
 			],
 		},
