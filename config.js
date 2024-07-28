@@ -139,19 +139,19 @@ const CONFIG = {
 		      	id: '1',
 		      	links: [
 		        	{
-		          		name: 'Atlas OS',
+		          		name: 'atlas os',
 		          		link: 'https://atlasos.net/',
 		        	},
 		        	{
-		          		name: 'Rectify11',
+		          		name: 'rectify11',
 		          		link: 'https://rectify11.net/',
 		        	},
 		        	{
-		         		name: 'Steam Skins',
+		         		name: 'steam skins',
 		          		link: 'https://steamskins.pages.dev/guides/installation/',
 		        	},
 		        	{
-		          		name: 'Spicetify',
+		          		name: 'spicetify',
 		          		link: 'https://spicetify.app/docs/getting-started/',
 		        	},
 		      	],
