@@ -134,6 +134,28 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
+		    {
+		      	icon: 'swatch-book',
+		      	id: '1',
+		      	links: [
+		        	{
+		          		name: 'Atlas OS',
+		          		link: 'https://atlasos.net/',
+		        	},
+		        	{
+		          		name: 'Rectify11',
+		          		link: 'https://rectify11.net/',
+		        	},
+		        	{
+		         		name: 'Steam Skins',
+		          		link: 'https://steamskins.pages.dev/guides/installation/',
+		        	},
+		        	{
+		          		name: 'Spicetify',
+		          		link: 'https://spicetify.app/docs/getting-started/',
+		        	},
+		      	],
+		},
 		{
 			icon: 'graduation-cap',
 			id: '2',
